@@ -1,0 +1,10 @@
+F:\学习\C#\MyWorldServer\bin\Debug\MyWorldServer.exe.config
+F:\学习\C#\MyWorldServer\bin\Debug\MyWorldServer.exe
+F:\学习\C#\MyWorldServer\bin\Debug\MyWorldServer.pdb
+F:\学习\C#\MyWorldServer\bin\Debug\Newtonsoft.Json.dll
+F:\学习\C#\MyWorldServer\bin\Debug\Newtonsoft.Json.xml
+F:\学习\C#\MyWorldServer\obj\Debug\MyWorldServer.csproj.AssemblyReference.cache
+F:\学习\C#\MyWorldServer\obj\Debug\MyWorldServer.csproj.CoreCompileInputs.cache
+F:\学习\C#\MyWorldServer\obj\Debug\MyWorldServer.csproj.CopyComplete
+F:\学习\C#\MyWorldServer\obj\Debug\MyWorldServer.exe
+F:\学习\C#\MyWorldServer\obj\Debug\MyWorldServer.pdb
